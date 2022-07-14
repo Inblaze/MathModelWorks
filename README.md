@@ -1,2 +1,2 @@
 # MathModelWorks
-"It really does crush your spirit!"
+"I hate wasted potential that shit crushes your spirit...It really does crush your soul!"

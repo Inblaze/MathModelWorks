@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TSCXML
+	xmlns="http://www.ibm.com/software/analytics/spss/xml/components/time-series"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ibm.com/software/analytics/spss/xml/components/time-series www.ibm.com/software/analytics/spss/xml/components/time-series-1.0.xsd">
+	<Header>
+		<Application
+			name="IBM SPSS Statistics"
+			version="24.0.0.0"/>
+	</Header>
+	<DataDictionary/>
+	<ExpSmoothingModel
+		modelName="模型_1"
+		modelDescriptor="snowfall_Simple"
+		variableID="snowfall">
+		<ESSimple>
+			<ParmLevel>
+				<EstimatedParameter>0.279359631637338 0.0858509059427975</EstimatedParameter>
+			</ParmLevel>
+			<StateLevel>96.5167241769015</StateLevel>
+		</ESSimple>
+		<EstimationInfo
+			periodStartIndex="0"
+			periodLength="63"
+			degreesOfFreedom="62">
+			<Statistic
+				type="errVariance">535.219296709021</Statistic>
+			<Statistic
+				type="meanSqrErr">535.219296709021</Statistic>
+			<Statistic
+				type="rootMeanSqrErr">23.1348070385085</Statistic>
+			<Statistic
+				type="meanAbsPctErr">28.9246083943281</Statistic>
+			<Statistic
+				type="meanAbsErr">18.7971148502292</Statistic>
+			<Statistic
+				type="maxAbsPctErr">275.731695060326</Statistic>
+			<Statistic
+				type="maxAbsErr">68.9329237650816</Statistic>
+			<Statistic
+				type="rSqr">0.0487180226335462</Statistic>
+			<Statistic
+				type="normBayesIC">6.34844060657654</Statistic>
+			<Statistic
+				type="logLikelihood">-286.793428583447</Statistic>
+			<Statistic
+				type="akaikeIC">575.586857166894</Statistic>
+			<Statistic
+				type="bayesIC">577.729991893285</Statistic>
+			<Statistic
+				type="stationaryRSqr">0.296583121137234</Statistic>
+			<LjungBoxStatistic
+				k="18"
+				degreesOfFreedom="17"
+				pValue="0.356057389940161">18.5318147476116</LjungBoxStatistic>
+		</EstimationInfo>
+	</ExpSmoothingModel>
+</TSCXML>
