@@ -1,5 +1,5 @@
 # MathModelWorks
->  "I hate wasted potential that shit crushes your spirit...It really does crush your soul!"
+>  "I hate wasted potential. That shit crushes your spirit... It really does crush your soul!"
 
 | 时间      | 完成作业             |
 | --------- | -------------------- |
