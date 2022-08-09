@@ -52,7 +52,7 @@ $$
 
 使用Matlab中的gamultiobj求解得到Pareto Front如图：
 
-![img](E:\MathModel\MathModelWorks\多目标优化\Homework 1\pareto front.png)
+![img](E:\MathModel\MathModelWorks\7月9日 多目标规划\Homework 1\pareto front.png)
 
 可见利润和加班时间近似于线性关系，利润增大的同时会导致加班时间变长。
 
@@ -64,4 +64,4 @@ $$
 
 5、6列分别表示的是利润和加班时间
 
-![image-20220717123538562](E:\MathModel\MathModelWorks\多目标优化\Homework 1\[x,fval].png)
+![image-20220717123538562](E:\MathModel\MathModelWorks\7月9日 多目标规划\Homework 1\[x,fval].png)

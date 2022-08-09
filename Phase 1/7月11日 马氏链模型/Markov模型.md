@@ -2,7 +2,7 @@
 
 ## 题目描述
 
-![image-20220718181838228](E:\MathModel\MathModelWorks\Markov\stem.png)
+![image-20220718181838228](E:\MathModel\MathModelWorks\7月11日 马氏链模型\stem.png)
 
 ## 解答
 
