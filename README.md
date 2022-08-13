@@ -2,7 +2,7 @@
 
 >  "I hate wasted potential. That shit crushes your spirit... It really does crush your soul!"
 
-## 第一阶段
+## Phase 1
 
 | 时间                | 完成作业                           |
 | ------------------- | ---------------------------------- |
@@ -25,9 +25,10 @@ Hope for a good outcome.
 
 
 
-## 第二阶段
+## Phase 2
 
-| Date              | Problem              |
-| ----------------- | -------------------- |
-| 8.5.2022~8.8.2022 | CUMCM 2021 Problem C |
+| Date                | Problem              |
+| ------------------- | -------------------- |
+| 8.5.2022~8.8.2022   | CUMCM 2021 Problem C |
+| 8.10.2022~8.12.2022 | CUMCM 2020 Problem A |
 
