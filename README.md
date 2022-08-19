@@ -31,4 +31,5 @@ Hope for a good outcome.
 | ------------------- | -------------------- |
 | 8.5.2022~8.8.2022   | CUMCM 2021 Problem C |
 | 8.10.2022~8.12.2022 | CUMCM 2020 Problem A |
+| 8.15.2022~8.18.2022 | CUMCM 2019 Problem A |
 
